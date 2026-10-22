@@ -106,6 +106,8 @@ not closed. Attribution remains evidence to review, not a lock on the file.
 
 ## Related tools
 
+- [agent-usage-analytics](https://github.com/JakeIwen/agent-usage-analytics):
+  read-only log reports, including two traps in cumulative and incomplete usage records.
 - [llm-switchboard](https://github.com/JakeIwen/llm-switchboard)
 - [codexbar-gateway-usage](https://github.com/JakeIwen/codexbar-gateway-usage)
 - [scripts](https://github.com/JakeIwen/scripts), including
