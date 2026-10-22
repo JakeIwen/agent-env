@@ -107,9 +107,8 @@ not closed. Attribution remains evidence to review, not a lock on the file.
 ## Related tools
 
 - [agent-usage-analytics](https://github.com/JakeIwen/agent-usage-analytics):
-  read-only log reports, including two traps in cumulative and incomplete usage records.
+  read-only reports on where Claude Code and Codex tokens go.
 - [llm-switchboard](https://github.com/JakeIwen/llm-switchboard)
-- [codexbar-gateway-usage](https://github.com/JakeIwen/codexbar-gateway-usage)
 - [scripts](https://github.com/JakeIwen/scripts), including
   [`llm_restore.py`](https://github.com/JakeIwen/scripts/blob/master/shared/sh/llm_restore.py)
 
